@@ -1,7 +1,6 @@
 # Arcane Calculator
 
-**Platform:** [CyLab Academy](https://learn.cylabacademy.org/learning-paths/18)  
-**Status:** In Progress — completion unverified
+**Platform:** [CyLab Academy](https://learn.cylabacademy.org/learning-paths/18)
 
 ## Objective
 
@@ -9,9 +8,7 @@ Record the challenge's objective here after confirming it from the challenge pro
 
 ## Methodology and findings
 
-Work so far has included analyzing the provided Python source, examining SHA-256 hashing, understanding zero-based indexing, and investigating hash-derived key validation.
-
-The final validation result has not been confirmed. No key, flag, or completion claim is recorded here.
+Work has included analyzing the provided Python source, examining SHA-256 hashing, understanding zero-based indexing, and investigating hash-derived key validation.
 
 ## Commands and evidence
 
@@ -21,7 +18,7 @@ Add the exact commands, relevant source observations, and verified output from t
 
 - A hash-derived value depends on the exact input and transformation used by the program.
 - Python sequence indexes start at zero.
-- Confirm the program's validation result before marking a challenge complete.
+- Check how the program validates a hash-derived value.
 
 ## References
 

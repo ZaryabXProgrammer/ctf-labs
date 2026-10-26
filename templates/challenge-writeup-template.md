@@ -2,7 +2,6 @@
 
 **Platform:**  
 **Category:**  
-**Status:** In Progress / Completed
 
 ## Objective
 

@@ -1,7 +1,5 @@
 # Linux Fundamentals
 
-**Status:** In progress
-
 ## Covered
 
 - Creating files

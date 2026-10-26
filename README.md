@@ -1,8 +1,8 @@
 # Cybersecurity CTF Labs
 
-A learning repository for documenting progress through CyLab Academy's [Beginner's Guide to the Challenge Library](https://learn.cylabacademy.org/learning-paths/18) and other capture-the-flag (CTF) platforms.
+A repository for documenting learning through CyLab Academy's [Beginner's Guide to the Challenge Library](https://learn.cylabacademy.org/learning-paths/18) and other capture-the-flag (CTF) platforms.
 
-The goal is to explain the reasoning behind each exercise—not just record an answer. Challenge status reflects verified progress; unconfirmed results are not presented as completions.
+The goal is to explain the reasoning behind each exercise—not just record an answer.
 
 ![CyLab Academy learning path completion: 28 of 28 modules](assets/cylab-learning-path-completed.png)
 
@@ -19,10 +19,10 @@ The goal is to explain the reasoning behind each exercise—not just record an a
 - [Write-up template](templates/challenge-writeup-template.md) — structure for new challenge notes.
 - [Resources](resources/README.md) — references and further learning.
 
-## Challenge status
+## Challenge write-ups
 
-- **In Progress:** [Buffer Overflow 0](ctf-writeups/picoctf/binary-exploitation/buffer-overflow-0.md)
-- **Learning path completed; challenge-level result unverified:** [Arcane Calculator](ctf-writeups/cylab-academy/arcane-calculator.md)
+- [Arcane Calculator](ctf-writeups/cylab-academy/arcane-calculator.md)
+- [Buffer Overflow 0](ctf-writeups/picoctf/binary-exploitation/buffer-overflow-0.md)
 
 ## Approach
 

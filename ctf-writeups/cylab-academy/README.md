@@ -4,4 +4,4 @@ Notes for the [Beginner's Guide to the Challenge Library](https://learn.cylabaca
 
 ## Challenges
 
-- [Arcane Calculator](arcane-calculator.md) — **In Progress; completion unverified**
+- [Arcane Calculator](arcane-calculator.md)
